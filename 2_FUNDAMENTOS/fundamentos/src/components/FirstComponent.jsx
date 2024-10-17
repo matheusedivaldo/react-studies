@@ -1,3 +1,5 @@
+import MyComponent from "./MyCOmponent";
+
 //Arquivos de Estilo
 const FirstComponent = () => {
     /*
@@ -8,6 +10,7 @@ const FirstComponent = () => {
             {/*Comentários dentro do JSX*/}
             <h1>Meu primeiro componente.</h1>
             <p className="teste">Meu Texto.</p>
+            <MyComponent/>
         </div>
     )
 }
