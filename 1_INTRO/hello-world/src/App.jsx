@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Hello World em React! 11/10/2024</h1>
+      <h1>Retomando em 04/08/2025</h1>
       <h2>Emmet LEGAL!</h2>
       <p>Desafio 01</p>
     </div>
